@@ -2523,5 +2523,20 @@ var generators={
 		'updated':'2020-01-20',
 		'series':'yu-gi-oh'
 	},
-
+	'dr':{
+		'title': 'DELTARUNE',
+		'source':'Toby Fox',
+		'sourceurl':'https://en.wikipedia.org/wiki/Toby_Fox',
+		'defaulttext':"* Feel free to explore the\n  town until you're ready\n  to [yellow]leave[/]!",
+		'platform':'pc',
+		'year':2021,
+		'gameinfo':'https://www.mobygames.com/game/deltarune-chapter-2',
+		'added':'2021-11-11',
+		'updated':'2021-11-11',
+		'series':'deltarune',
+		'contributions':[{
+			'contributor': 'rsrunner',
+			'url':'https://github.com/rsrunner',
+		}]
+	},
 }
