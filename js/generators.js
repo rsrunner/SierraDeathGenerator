@@ -1347,6 +1347,7 @@ var generators={
 		'year':1986,
 		'gameinfo':'https://www.mobygames.com/game/metroid',
 		'added':'2018-04-10',
+		'updated':'2021-11-19',
 		'series':'metroid',
 	},
 	'mmprtm':{
