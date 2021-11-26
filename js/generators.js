@@ -269,6 +269,16 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/breath-of-fire-iv',
 		'series':'breath of fire'
 	},
+	'buckrog':{
+		'title': 'Buck Rogers',
+		'source':'Strategic Simulations, Inc.',
+		'sourceurl':'https://en.wikipedia.org/wiki/Strategic_Simulations',
+		'defaulttext':"Suddenly, ships scream in low from the north. Pandemonium reigns as the fighters drop their deadly cargo! Ships and control towers collapse in balls of crimson flame! People panic and scatter.",
+		'platform':'msdos',
+		'added':'2021-11-22',
+		'year':1990,
+		'gameinfo':'https://www.mobygames.com/game/buck-rogers-countdown-to-doomsday'
+	},
 	'codaw':{
 		'title': 'Call of Duty: Advanced Warfare',
 		'source':'Sledgehammer Games',
@@ -1170,6 +1180,16 @@ var generators={
 		'gameinfo':'https://ia800903.us.archive.org/6/items/LetsLearnAboutComputers4amCrack/Let%27s%20Learn%20About%20Computers%20%284am%20crack%29.txt',
 		'added':'2020-09-19',
 		'play':'https://archive.org/details/LetsLearnAboutComputers4amCrack'
+	},
+	'lm':{
+		'title': 'La-Mulana',
+		'source':'NIGORO',
+		'sourceurl':'http://nigoro.jp/en/about/',
+		'defaulttext':"These ruins are full of traps. I no longer have the energy to escape…",
+		'platform':'win32',
+		'year':2005,
+		'gameinfo':'https://www.mobygames.com/game/la-mulana',
+		'added':'2021-11-21'
 	},
 	'ln':{
 		'title': 'Little Nemo',
