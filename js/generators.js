@@ -16,6 +16,7 @@ var generators={
 		'sourceurl':'https://en.wikipedia.org/wiki/Capcom',
 		'defaulttext':"999 ghosts are in this\n\nhouse. but they're always\n\nlooking for number 1,000.\n\nBe careful--They might\n\nwant you!\n             \u25bc",
 		'added':'2018-08-26',
+		'updated':'2022-02-08',
 		'year': 1990,
 		'platform':'nes',
 		'gameinfo':'https://www.mobygames.com/game/disney-adventures-in-the-magic-kingdom'
@@ -331,6 +332,16 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/dos/carmageddon',
 		'platform':'dos',
 		'series':'carmageddon'
+	},
+	'cnbp':{
+		'title': 'Cartoon Network Block Party',
+		'source':'Monkeystone Games',
+		'sourceurl':'https://en.wikipedia.org/wiki/Monkeystone_Games',
+		'defaulttext':'[blue]Tater Farm[/]\nIN ORDER TO WIN THE\nTATER FARM BOARD\nYOU MUST BE THE\nFIRST PLAYER TO\nCOLLECT FOUR\nPORKBUTTS, THEN',
+		'added':'2022-01-22',
+		'year':2004,
+		'gameinfo':'https://www.mobygames.com/game/cartoon-network-block-party',
+		'platform':'gba'
 	},
 	'cotw':{
 		'title': 'Castle of the Winds',
@@ -664,6 +675,26 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/gameboy-color/disneys-doug-dougs-big-game',
 		'added':'2019-05-26',
 	},
+	'drakejosh':{
+		'title': "Drake & Josh",
+		'source': 'Behaviour Interactive',
+		'sourceurl': 'https://en.wikipedia.org/wiki/Behaviour_Interactive',
+		'defaulttext': "Nice try, Boober.  Have fun\ngetting through the basement.",
+		'platform':'gba',
+		'year':2007,
+		'gameinfo':'https://www.mobygames.com/game/drake-josh',
+		'added':'2021-12-17',
+	},
+	'drugs':{
+		'title': "Drugs: Their Effects on You",
+		'source': 'EduSystems',
+		'sourceurl': 'https://archive.org/details/DrugsTheirEffectsOnYou4amCrack',
+		'defaulttext': "What is a Drug?\nATHLETE DIES FROM\nDRUG OVERDOSE\nThe ancient Greek word for drugs\nwas [underline]pharmakon[/], a word that meant\nboth poison and medicine.  That\ndefinition is still valid.  Used under\nmedical supervision, drugs can\nperform miracles.  Drugs can be\ndeadly when self-administered or \nused for non-medical purposes.",
+		'platform':'apple2',
+		'year':1987,
+		'gameinfo':'https://archive.org/details/DrugsTheirEffectsOnYou4amCrack',
+		'added':'2022-04-24',
+	},
 	'dw':{
 		'title': 'DreamWeb',
 		'source':'Creative Reality',
@@ -739,6 +770,17 @@ var generators={
 		'year':1991,
 		'gameinfo':'https://en.wikipedia.org/wiki/Wisdom_Tree',
 		'added':'2020-02-23',
+	},
+	'f2b':{
+		'title': 'Fade to Black',
+		'source':'Delphine Software International',
+		'sourceurl':'https://en.wikipedia.org/wiki/Delphine_Software_International',
+		'defaulttext':"Message #1\nFrom:  John\n\nHello again, Conrad.\nYour first mission is to reach the infirmary\non Level 2. Mandragore agents left a radar\nscrambler there. It will allow us to escape\nwithout being detected by the prison\nsecurity system. The device is hidden inside\na \"MEDIKIT\". I'll be in touch.\nEnd of message.",
+		'platform':'msdos',
+		'year':1995,
+		'gameinfo':'https://www.mobygames.com/game/fade-to-black',
+		'added':'2021-11-29',
+		'play':'https://archive.org/details/msdos_Fade_to_Black_1995'
 	},
 	'familyfeud':{
 		'title': 'Family Feud',
@@ -963,6 +1005,17 @@ var generators={
 		'year':1992,
 		'added':'2020-04-14',
 		'gameinfo':'https://www.mobygames.com/game/snes/home-alone-2-lost-in-new-york_'
+	},
+	'hybrid':{
+		'title': 'Hybrid Cracktro',
+		'source':'HYBRID',
+		'sourceurl':'https://en.wikipedia.org/wiki/List_of_warez_groups#HYBRID',
+		'defaulttext':"\nhybrid\n\nproudly present:\n\nhellfire  zone\n\n(C) gametek ",
+		'platform':'dos',
+		'year':1996,
+		'added':'2022-01-08',
+		'gameinfo':'https://archive.org/details/msdos_Hellfire_Zone_1995',
+		'play':'https://archive.org/details/msdos_Hellfire_Zone_1995'
 	},
 	'hso':{
 		'title': 'Hypnospace Outlaw',
@@ -1336,6 +1389,17 @@ var generators={
 		'added':'2018-10-19',
 		'year':2001
 	},
+	'mt1':{
+		'title': 'MegaTraveller 1',
+		'source':'Paragon Software',
+		'sourceurl':'https://en.wikipedia.org/wiki/Paragon_Software',
+		'defaulttext':"\"Please, you must help me, I'm\nin grave danger!\" She removes\nthree objects from the folds of\nher torn cloak and hands them\nto you. \"I am a Transom agent,\na special investigator for\nSharushid Megacorporation, and\nI have discovered a traitor\nnamed Konrad Kiefer. He plans\nto aid the Zhodani in a\ntreacherous surprise attack\nagainst the Imperium. If he\nsucceeds, it will surely lead\nto another destructive Frontier\nWar.\"",
+		'gameinfo':'https://www.mobygames.com/game/megatraveller-1-the-zhodani-conspiracy',
+		'platform':'msdos',
+		'series':'megatraveller',
+		'added':'2022-05-10',
+		'year':1990
+	},
 	'mmbn4':{
 		'title': 'Mega Man Battle Network 4',
 		'source':'Capcom',
@@ -1474,16 +1538,6 @@ var generators={
 		'gameinfo':'https://en.wikipedia.org/wiki/Roland_MT-32',
 		'added':'2018-04-11',
 
-	},
-	'mlprr':{
-		'title': 'My Little Pony: Crystal Princess - The Runaway Rainbow',
-		'source':'Webfoot Technologies',
-		'sourceurl':'https://en.wikipedia.org/wiki/Webfoot_Technologies',
-		'defaulttext':'[hotpink]Cheerilee:[/] Rarity?  Are you listening?',
-		'platform':'gba',
-		'year':2006,
-		'gameinfo':'https://www.mobygames.com/game/my-little-pony-crystal-princess-the-runaway-rainbow',
-		'added':'2021-11-06'
 	},
 	'nesticle':{
 		'title': 'Nesticle',
@@ -1663,6 +1717,7 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/snes/pilotwings',
 		'year':1991,
 		'added':'2019-02-16',
+		'updated':'2022-04-24',
 		'platform':'snes'
 
 	},
@@ -1902,7 +1957,16 @@ var generators={
 		'year':1993,
 		'gameinfo':'https://www.mobygames.com/game/snes/skyblazer',
 		'added':'2018-05-15',
-
+	},
+	'sims2':{
+		'title': 'The Sims 2',
+		'source':'Maxis Software',
+		'sourceurl':'https://en.wikipedia.org/wiki/Maxis',
+		'defaulttext':"Tristan Legend\nYou ever caught a meteor with your bare hands? It takes time to get used to the heat and the pain, but it's a good cure for loneliness.",
+		'platform':'ds',
+		'year':2005,
+		'gameinfo':'https://www.mobygames.com/game/sims-2_',
+		'added':'2022-01-10'
 	},
 	'sth1':{
 		'title': 'Sonic The Hedgehog 1',
@@ -2153,6 +2217,17 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/nes/strider_',
 		'added':'2019-07-12'
 	},
+	'sg':{
+		'title': 'Super Godzilla',
+		'source':'Toho',
+		'sourceurl':'https://en.wikipedia.org/wiki/Toho',
+		'defaulttext':"Various enemies are lurking in the city.  Move carefully.",
+		"year":1994,
+		'gameinfo':'https://www.mobygames.com/game/snes/super-godzilla',
+		"platform":"snes",
+		'series':'godzilla',
+		'added':'2021-12-03'
+	},
 	'smas':{
 		'title': 'Super Mario All-Stars',
 		'source':'Nintendo',
@@ -2359,6 +2434,19 @@ var generators={
 		'year':1995,
 		'added':'2018-10-25'
 	},
+	'tynk':{
+		'title': 'Tynk! and the Final Phonorecord',
+		'source':'VirtualMoth',
+		'sourceurl':'https://tynkga.me/',
+		'defaulttext':"Tynk\nEveryone says '[yellow]Tynk[/] you should get\na dresser for all your clothes'\nlike they can't see my [grey]#Minimalist[/]\npile of clothes right here.",
+		'gameinfo':'https://tynkga.me/',
+		'platform':'win32',
+		'year':2022,
+		'added':'2022-03-16',
+		'how-to-use':'Play the demo',
+		'where-to-use':'itch.io',
+		'play':'https://virtualmoth.itch.io/tynk-and-the-final-phonorecord'
+	},
 	'ufouria':{
 		'title': 'Ufouria',
 		'source': 'Sunsoft',
@@ -2403,6 +2491,26 @@ var generators={
 		'added': '2019-09-28',
 		'updated': '2019-10-01',
 		'gameinfo':'https://www.mobygames.com/game/windows/untitled-goose-game'
+	},
+	'victorious':{
+		'title': 'Victorious: Hollywood Arts Debut',
+		'source': 'Behaviour Interactive',
+		'sourceurl': 'https://en.wikipedia.org/wiki/Behaviour_Interactive',
+		'defaulttext': "Help! I need to go to the bathroom and Jade has handcuffed me to the stairs!",
+		'platform': 'ds',
+		'year': 2011,
+		'added': '2021-12-15',
+		'gameinfo':'https://www.mobygames.com/game/victorious-hollywood-arts-debut'
+	},
+	'victoriousttl':{
+		'title': 'Victorious: Taking the Lead',
+		'source': 'High Voltage Software',
+		'sourceurl': 'https://en.wikipedia.org/wiki/High_Voltage_Software',
+		'defaulttext': "Kittens are sooooo cute!",
+		'platform': 'wii',
+		'year': 2012,
+		'added': '2022-03-20',
+		'gameinfo':'https://www.mobygames.com/game/victorious-taking-the-lead'
 	},
 	'vfa': {
 		'title': 'Virtua Fighter Animation',
@@ -2487,6 +2595,17 @@ var generators={
 		'updated':'2020-08-25',
 		'gameinfo':'https://en.wikipedia.org/wiki/Windows_95'
 	},
+	'wizball':{
+		'title': 'Wizball',
+		'source': 'Sensible Software',
+		'sourceurl': 'https://en.wikipedia.org/wiki/Sensible_Software',
+		'defaulttext': "select thrust and antigrav first.\narrows on the landscapes tell\nyou if the holes lead up or down.\n\nafter completing a colour,you\ncan have a permanent weapon,just   \nselect the one you want while      \nwizzy stirs his pot.               \n\nextra lives on bonus level.  \n\nwiggle joystick to select weapons. \n\n\n[pressreturn]press return for wiztips[/]",
+		'play': 'https://archive.org/details/msdos_Wizball_1987',
+		'platform':'dos',
+		'year':1987,
+		'gameinfo':'https://www.mobygames.com/game/dos/wizball',
+		'added':'2021-12-14'
+	},
 	'wof': {
 		'title': 'Wheel of Fortune',
 		'source': 'SHAREDATA, Inc',
@@ -2508,6 +2627,17 @@ var generators={
 		'added':'2019-01-02',
 		'gameinfo':'https://deerbell.itch.io/witchy-workshop'
 	},
+	'wbiml':{
+		'title': 'Wonder Boy in Monster Land',
+		'source':'Westone Bit Entertainment',
+		'sourceurl':'https://en.wikipedia.org/wiki/Westone_Bit_Entertainment',
+		'defaulttext':"Jump at fence,\nget time.",
+		'platform':'arcade',
+		'year':1987,
+		'gameinfo':'https://www.mobygames.com/game/wonder-boy-in-monster-land',
+		'added':'2021-12-10',
+		'series':'wonder boy'
+	},
 	'wh2':{
 		'title': 'World Heroes 2',
 		'source':'ADK',
@@ -2517,6 +2647,7 @@ var generators={
 		'year':1994,
 		'gameinfo':'https://www.mobygames.com/game/snes/world-heroes-2',
 		'added':'2018-05-14',
+		'updated':'2022-04-08',
 		'series':'world heroes'
 	},
 	'wbm':{
